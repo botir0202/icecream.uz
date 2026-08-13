@@ -1,0 +1,383 @@
+* {
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #1d1037;
+  overflow-x: hidden;
+}
+.main-big-div-wrapper-all {
+  width: 1521px;
+  margin: 0 auto;
+  height: 8000px;
+  background-color: white;
+  overflow-x: hidden;
+}
+.home-page-start {
+  width: 100%;
+  position: relative;
+  max-width: 1521px;
+  height: 1019.9px;
+  background: url("./images/bg.svg"), no-repeat, left;
+  background-size: cover;
+}
+.home-page-inside-nav-bar-wrapper > ul {
+  display: flex;
+  width: 150px;
+  list-style: none;
+}
+.home-page-inside-nav-bar-wrapper {
+  width: 100%;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  color: white;
+  border-bottom: 1px solid rgb(173, 173, 173);
+}
+.yozuvlar-eheheheheheeeeeeee {
+  width: 560px;
+  height: 400px;
+  margin-left: 150px;
+  margin-top: 180px;
+  color: white;
+}
+.buttun-bebebebe {
+  width: fit-content;
+  padding: 2px;
+  height: 35px;
+  background-color: rgb(221, 221, 221);
+  border: none;
+  color: rgb(100, 100, 100);
+  border-radius: 3px;
+  font-size: 1.1rem;
+}
+button[class|="yellow"] {
+  width: 230px;
+  height: 62px;
+
+  border: none;
+  border-radius: 8px;
+  margin-top: 20px;
+  color: black;
+  font-size: 1.1rem;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  background-color: #fed84c;
+}
+.rangsiz-button {
+  background-color: transparent;
+  width: 230px;
+  height: 68px;
+  font-size: 1.1rem;
+  color: white;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  border-radius: 8px;
+  border: solid 1px white;
+  margin-left: 20px;
+}
+img[class|="berry"] {
+  width: 195px;
+  height: 201px;
+}
+.berry-one {
+  right: 0px;
+  right: -29px;
+  position: absolute;
+}
+.berry-two {
+  position: absolute;
+  bottom: 140px;
+  right: 120px;
+}
+.berry-three {
+  left: -40px;
+  position: absolute;
+  top: 150px;
+}
+img[class|="leaf"] {
+  width: 275px;
+  height: 286px;
+}
+.leaf-one {
+  position: absolute;
+  bottom: 10px;
+  left: -60px;
+}
+.shirinliklar-urab-turuvchisi {
+  width: 100%;
+  position: relative;
+  margin: auto;
+  height: 1700px;
+  background-color: #fff;
+}
+
+.kup-div-urab-turuvchisi > div {
+  width: 350px;
+  border-radius: 8px;
+  height: 500px;
+  box-shadow: -1px 1px 5px rgb(198, 195, 195);
+  background: rgba(255, 255, 255, 1);
+}
+.kup-div-urab-turuvchisi {
+  width: 1100px;
+  height: 1580px;
+  margin: 40px auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.kup-div-urab-turuvchisi > div > img {
+  width: 350px;
+  height: 225px;
+  margin: 0 auto;
+}
+.sariq-buttonlar {
+  width: 132px;
+  margin-left: 31px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.8rex;
+  margin-top: 30px;
+  height: 50px;
+  background-color: rgba(254, 216, 76, 1);
+}
+.mobile-programm-wrapper-div {
+  width: 100%;
+  height: 1200px;
+  background-color: rgba(8, 17, 48, 1);
+  position: relative;
+}
+.about-programma {
+  width: 600px;
+  margin-left: 700px;
+  height: 500px;
+}
+.one-girl-wrapper-div {
+  width: 100%;
+  position: relative;
+  height: 850px;
+  display: flex;
+}
+.one-girl-wrapper-div > div {
+  width: 540px;
+  height: 510px;
+  margin-left: 140px;
+  margin-top: 160px;
+  font-weight: lighter;
+}
+.one-girl-wrapper-div > div > h1 {
+  font-weight: 400;
+}
+.ul-three-abbout {
+  list-style: inside disc;
+  font-size: 19px;
+  margin: 5px;
+  text-align: left;
+  li {
+    margin-bottom: 10px;
+  }
+}
+.ul-three-abbout > li::marker {
+  color: blue;
+  font-size: 24px;
+}
+.woman-img {
+  position: absolute;
+  right: 100px;
+  z-index: 3;
+  width: 720px;
+  height: 620px;
+  margin-top: 90px;
+}
+.name-wrapper {
+  position: absolute;
+  bottom: 220px;
+  z-index: 3;
+  right: 520px;
+}
+.berry-6 {
+  position: absolute;
+  top: 170px;
+  right: 500px;
+}
+.three-hehe {
+  position: absolute;
+  right: 0;
+  width: 200px;
+  top: 180px;
+  right: 240px;
+}
+.klentlar-urab-turuvchisi {
+  width: 100%;
+  height: 1200px;
+  background-color: #081130;
+  position: relative;
+}
+.bulut-pas {
+  position: absolute;
+  bottom: 0;
+  z-index: 3;
+}
+.klent-haqida-malumot-ibi-ulay {
+  width: 750px;
+  height: 440px;
+  display: inline-block;
+  top: 400px;
+  left: 360px;
+  padding: 80px;
+  position: absolute;
+  background-color: #fff;
+  h3 {
+    font-weight: 400;
+    margin-bottom: 20px;
+  }
+  small {
+    width: 300px;
+    display: inline-block;
+    color: #828385;
+    margin-bottom: 20px;
+  }
+}
+.girl-wrapper-div-hehe {
+  width: 250px;
+  height: 300px;
+  top: 50px;
+  right: 80px;
+  position: absolute;
+}
+.girl-wrapper-div-hehe1 {
+  width: 250px;
+  height: 300px;
+  top: 50px;
+  right: 0;
+  position: absolute;
+}
+.girl-wrapper-div-hehe1 > img {
+  width: 250px;
+  height: 240px;
+}
+.girl-wrapper-div-hehe > img {
+  width: 250px;
+  height: 240px;
+}
+.yarimta {
+  width: 700px;
+  height: 360px;
+  padding: 80px;
+  position: absolute;
+  top: 450px;
+  left: -450px;
+  display: inline-block;
+  background-color: #fff;
+  opacity: 0.4;
+}
+.yarimta-yarimta {
+  width: 700px;
+  height: 360px;
+  padding: 80px;
+  position: absolute;
+  top: 450px;
+  right: -400px;
+  display: inline-block;
+  background-color: #fff;
+  opacity: 0.4;
+}
+.kupchala-rasmlar-urab-turuvchi-div {
+  width: 100%;
+  height: 1066px;
+  margin-top: 50px;
+}
+.kupchala-rasmlar-urab-turuvchi-div img {
+  width: 500px;
+  height: 350px;
+  margin: 1px;
+}
+.oxirirrrrrrrririirir-wrapper {
+  width: 100%;
+  height: 821px;
+  border: solid 1px black;
+  background-color: #081130;
+  position: relative;
+}
+.oxiriri-heehe {
+  width: 740px;
+  text-align: center;
+  padding: 18px;
+
+  height: 330px;
+  margin-left: 380px;
+  background-color: #fff;
+}
+.input {
+  width: 200px;
+  height: 61px;
+  border-radius: 10px;
+  margin-top: 70px;
+  border: solid black 1px;
+  padding: 25px;
+  display: inline-block;
+}
+.lead-oxirgi {
+  top: 230px;
+  z-index: 3;
+  width: 100px;
+  left: 300px;
+  position: absolute;
+}
+.sasa-oxiri {
+  bottom: 150px;
+  z-index: 3;
+  width: 100px;
+  right: 330px;
+  position: absolute;
+}
+.berry-oxiri {
+  bottom: 100px;
+  z-index: 3;
+  width: 100px;
+  left: 300px;
+  position: absolute;
+}
+.berry-oxiri1 {
+  top: 150px;
+  z-index: 3;
+  width: 100px;
+  right: 300px;
+  position: absolute;
+}
